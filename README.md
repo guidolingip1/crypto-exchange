@@ -1,4 +1,4 @@
-# Projeto MRV
+# Projeto Crypto Exchange
 
 ## Como ficou?
 ![pokedexMRV](https://github.com/guidolingip1/crypto-exchange/blob/master/crypto-exchange.gif)
